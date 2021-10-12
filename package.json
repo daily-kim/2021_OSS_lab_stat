@@ -10,6 +10,9 @@
         "type": "git",
         "url": "git+https://github.com/daily-kim/2021_OSS_lab_stat.git"
     },
+    "bin": {
+        "stat": "./main.js"
+    },
     "author": "",
     "license": "ISC",
     "bugs": {
