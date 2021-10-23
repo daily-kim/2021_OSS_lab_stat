@@ -1,6 +1,6 @@
 {
-    "name": "lab_stat",
-    "version": "0.1.0",
+    "name": "test",
+    "version": "0.1.1",
     "description": "",
     "main": "main.js",
     "scripts": {
@@ -18,5 +18,9 @@
     "bugs": {
         "url": "https://github.com/daily-kim/2021_OSS_lab_stat/issues"
     },
-    "homepage": "https://github.com/daily-kim/2021_OSS_lab_stat#readme"
+    "homepage": "https://github.com/daily-kim/2021_OSS_lab_stat#readme",
+    "dependencies": {
+        "hangul-js": "^0.2.6",
+        "stat_test": "file:stat_test-0.1.0.tgz"
+    }
 }
