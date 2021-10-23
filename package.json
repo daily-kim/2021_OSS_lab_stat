@@ -20,7 +20,6 @@
     },
     "homepage": "https://github.com/daily-kim/2021_OSS_lab_stat#readme",
     "dependencies": {
-        "hangul-js": "^0.2.6",
-        "stat_test": "file:stat_test-0.1.0.tgz"
+        "stat_test": "file:stat_test-0.1.1.tgz"
     }
 }
